@@ -1,3 +1,37 @@
 <resources>
     <string name="app_name">CallRecorder</string>
+    <string name="aa">1</string>
+    <string name="btn4">4</string>
+    <string name="btn_7">7</string>
+    <string name="buttn10">*</string>
+    <string name="aaabtn2">2</string>
+    <string name="button5">5</string>
+    <string name="buttn8">8</string>
+    <string name="butn__0">0</string>
+    <string name="abc_butn6">6</string>
+    <string name="ABC_butn">#</string>
+    <string name="butn_9">9</string>
+    <string name="aaa_btn_3">3</string>
+    <string name="character_key_btn1">-</string>
+    <string name="charactr_btn_2">_</string>
+    <string name="chracter_buttn3">.</string>
+    <string name="callRecorder_btn">ToggleButton</string>
+    <string name="Heder_text">Call Recorder</string>
+    <string name="todo">TODO</string>
+    <string name="speaker_btn">Speaker</string>
+    <string name="keypad_btn">Keypad</string>
+    <string name="mute_btn">Mute</string>
+    <string name="bluetooth_btn">Bluetooth</string>
+    <string name="haldcll_btn">Hold call</string>
+    <string name="add_call_btn">Add call</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+    <string name="todo__7">TODO</string>
+    <string name="todo___8">TODO</string>
+    <string name="todo_Pict">TODO</string>
+    <string name="call_recorder_btn">Call Recorder</string>
+
 </resources>
