@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">all</string>
+    <string name="appName">AppLocker</string>
+    <string name="btnImages">Images</string>
+    <string name="btnVideo">Video</string>
+    <string name="btnAudio">Audio</string>
+    <string name="des_image_1">image 1</string>
+
+    <string name="des_image_3">third_img</string>
+    <string name="des_image_4">fourth_img</string>
+    <string name="des_image_2">second_img</string>
+    <string name="btnSelectAll">select All</string>
+    <string name="btnHide">Hide Selected</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="view_images">View Images :</string>
+    <string name="view_videos">View Videos :</string>
+    <string name="view_audio">View Audio :</string>
+    <string name="view_all_images">View all image files</string>
+    <string name="view_all_videos">View all videos files</string>
+    <string name="view_all_audio_files">View all audio files</string>
+    <string name="previous">previous image/ video /audio</string>
+    <string name="play">now image/ video /audio</string>
+    <string name="next">next image/ video /audio</string>
+</resources>
